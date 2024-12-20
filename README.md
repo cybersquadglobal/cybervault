@@ -2,13 +2,28 @@
 <br>
 <br>
 <br>
- 
 
+
+<p align="center">
+    <a href="https://github.com/cybersquadglobal">
+        <img src="https://img.shields.io/badge/HOME-007bff?style=for-the-badge&labelColor=000000" alt="HOME" style="margin: 10px;">
+    </a>
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
 
 <h1 align="center">WELCOME TO THE CYBER VAULT REPOSITORY</h1>
 
+ 
 <br>
+<br>
+ 
 
+ 
 The CYBER VAULT REPOSITORY is a curated digital library of resources developed by CYBERSQUAD, a global community of technology enthusiasts, researchers, and cybersecurity professionals. All content within the repository is generated through advanced AI-driven methods and provided to the tech community for educational and collaborative purposes. While we strive for accuracy, we encourage users to fact-check and report potential errors. Your feedback ensures the continuous improvement and quality of our resources.  
 
 
@@ -75,3 +90,45 @@ By accessing the CYBER VAULT REPOSITORY, users confirm that they have read, unde
 
 <h3 align="center">Thank you for being a part of this journey with us!</h3>
 
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+<p align="center">
+    <a href="https://github.com/cybersquadglobal">
+        <img src="https://img.shields.io/badge/HOME-007bff?style=for-the-badge&labelColor=000000" alt="HOME" style="margin: 10px;">
+    </a>
+</p
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+----------
+
+
+<br>
+<br>
+<br>
+<br>
+ 
+
+  
+<h4 align="center">STAY TUNED FOR THE LATEST UPDATES!</h4>
+
+
+
+<br>
+<br>
